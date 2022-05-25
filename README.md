@@ -6,7 +6,9 @@ Autores: Sara Ximena Ortiz Reyes
 
 - Api .Net 3.1
 - Sql server 2018
+- Visual Studio 2022
 - Ocelot API Gateway 16.0.1
+
 
 # Introducción
 Esta Api redirecciona a dos microservicios los cuales guardan, actualizan y obtienen información de productos y clientes, se utilizó Ocelot para configurar API Gateway, y dos microservicios en .net y una base de datos relacional en sql server
