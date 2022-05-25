@@ -11,17 +11,17 @@ Esta Api redirecciona dos microservicios los cuales guardan, actualizan y obtien
 
 # Instalación 
 
-SDK Net 3.1
-Sql server 2018 o superior,
-Descargar o clonar el proyecto del respositorio
-Crear una migracióm para crear la DB y los objetos de DB
-  Ejecutar los siguientes comandos:
+1. instalar SDK Net 3.1
+2. Sql server 2018 o superior,
+3. Descargar o clonar el proyecto del respositorio
+4. Crear una migracióm para crear la DB y los objetos de DB
+  4.1. Ejecutar los siguientes comandos:
     - Add-Migration InitialCreate
     - Update-Database
-Configurar los proyectos de inicio como se muestra en la siguiente imagen:
+5. Configurar los proyectos de inicio como se muestra en la siguiente imagen:
 ![image](https://user-images.githubusercontent.com/7612153/170155606-034ed4c5-f5cf-4c00-9eb2-f8ffa486e6c0.png)
 
-Ejecutar el proyecto y con ayuda de postman navegar por cada uno de los endpoint por medio del Api gateway
+6. Ejecutar el proyecto y con ayuda de postman navegar por cada uno de los endpoint por medio del Api gateway
 
 # Arquitectura
 
