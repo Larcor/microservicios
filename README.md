@@ -31,7 +31,7 @@ Esta Api redirecciona a dos microservicios los cuales guardan, actualizan y obti
 
 ![image](https://user-images.githubusercontent.com/7612153/170156561-4c5e7d3f-34fc-45a8-ba87-941c24160824.png)
 
-#Conclusiones
+# Conclusiones
 
 1. Aprendimos a crear y configurar Api Gateway en .net con la libreria Ocelot.
 2. Nos quedó mas clara la arquitectura por microservicios mediante la implementación y el desarrollo del ejercicio.
