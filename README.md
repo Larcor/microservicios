@@ -6,10 +6,10 @@ Api .Net 3.1
 Sql server 2018
 Ocelot API Gateway 16.0.1
 
-# introducción
+# Introducción
 Esta Api redirecciona dos microservicios los cuales guardan, actualizan y obtiene información de productos y clientes, se utilizó Ocelot para configurar API Gateway, y dos microservicios en .net y una base de datos relacional en sql server
 
-# Intalación 
+# Instalación 
 
 SDK Net 3.1
 Sql server 2018 o superior,
