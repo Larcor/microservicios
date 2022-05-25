@@ -7,7 +7,7 @@ Sql server 2018
 Ocelot API Gateway 16.0.1
 
 # Introducción
-Esta Api redirecciona dos microservicios los cuales guardan, actualizan y obtiene información de productos y clientes, se utilizó Ocelot para configurar API Gateway, y dos microservicios en .net y una base de datos relacional en sql server
+Esta Api redirecciona a dos microservicios los cuales guardan, actualizan y obtienen información de productos y clientes, se utilizó Ocelot para configurar API Gateway, y dos microservicios en .net y una base de datos relacional en sql server
 
 # Instalación 
 
