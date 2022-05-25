@@ -11,7 +11,7 @@ Autores: Sara Ximena Ortiz Reyes
 
 
 # Introducción
-Esta Api redirecciona a dos microservicios los cuales guardan, actualizan y obtienen información de productos y clientes, se utilizó Ocelot para configurar API Gateway, y dos microservicios en .net y una base de datos relacional en sql server
+Esta Api redirecciona a dos microservicios los cuales guardan, actualizan y obtienen información de productos y clientes, se utilizó Ocelot para configurar API Gateway, dos microservicios en .net y una base de datos relacional en sql server
 
 # Instalación 
 
