@@ -1,6 +1,7 @@
 # microservicios
-Autores: Sara Ximena Ortiz Reyes
-         Manuel Alejandro Bobadilla
+Autores: 
+- Sara Ximena Ortiz Reyes
+- Manuel Alejandro Bobadilla
          
 # Herramientas
 
