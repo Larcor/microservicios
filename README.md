@@ -19,7 +19,7 @@ Esta Api redirecciona a dos microservicios los cuales guardan, actualizan y obti
 1. instalar SDK Net 3.1
 2. Sql server 2018 o superior,
 3. Descargar o clonar el proyecto del respositorio
-4. Crear una migracióm para crear la DB y los objetos de DB
+4. Crear una migración para crear la DB y los objetos de DB
   4.1. Ejecutar los siguientes comandos:
     - Add-Migration InitialCreate
     - Update-Database
